@@ -53,4 +53,4 @@ ax.set_ylabel('Họ và tên')
 st.pyplot(fig)
 
 # 6. Thông tin người tạo (Footer)
-st.markdown("<br><hr><p style='font-size: 12px; text-align: center;'>Người tạo: [Tên của bạn] - MSSV: [MSSV của bạn]</p>", unsafe_allow_html=True)
+st.markdown("<br><hr><p style='font-size: 12px; text-align: center;'>Người tạo: [Nguyễn Thế Anh] - MSSV: [001208064909]</p>", unsafe_allow_html=True)
